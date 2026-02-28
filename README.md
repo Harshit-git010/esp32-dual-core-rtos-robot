@@ -34,7 +34,7 @@ Version 1 :  Basic movement <br>
 Version 2 : Improved moment <br>
 Version 3 : code with minimal loops, pure logic, instant movement <br>
 Version 4 : Human/realistic logic <br>
-Version 5 : Continuous walk chatgpt <br>
+Version 5 : Continuous walk<br>
 Version 6 : Robot moving correctly <br><br>
 
 ROBO SENSORS<br>
